@@ -1,0 +1,3 @@
+[submodule "app/Plugin/UtcCas"]
+	path = app/Plugin/UtcCas
+	url = git@github.com:Shyax/cake_cas.git
